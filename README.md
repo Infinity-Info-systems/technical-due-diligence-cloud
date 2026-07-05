@@ -61,4 +61,15 @@ reports/            Sample executive report structures
 evidence/           Use-case notes
 references/         Bibliography
 use-cases/          Example assessment scenarios
-eof
+```
+
+## Start Here
+
+1. Read the framework overview.
+2. Review the architecture, reliability, security, DR, and FinOps assessments.
+3. Use the questionnaires and templates to drive diligence work.
+4. Expand scorecards, reports, and remediation roadmaps next.
+
+## Core Content
+
+- [Technical Due Diligence Matrix](assessment-models/technical-due-diligence-matrix.md)
