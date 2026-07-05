@@ -21,13 +21,13 @@ The framework helps assess architecture maturity, scalability, reliability, clou
 
 The framework helps stakeholders:
 
-- Evaluate cloud platform health
-- Identify technology risks before investment or transformation
-- Assess scalability and resilience
-- Review cloud cost efficiency
-- Identify modernization gaps
-- Support executive decision-making
-- Build remediation roadmaps
+- evaluate cloud platform health
+- identify technology risks before investment or transformation
+- assess scalability and resilience
+- review cloud cost efficiency
+- identify modernization gaps
+- support executive decision-making
+- build remediation roadmaps
 
 ## Framework Components
 
@@ -49,6 +49,14 @@ The framework helps stakeholders:
 - Architecture review boards
 - FinTech technology leaders
 
+## How To Use This Repo
+
+1. Read the framework overview and technical due diligence matrix.
+2. Review the architecture, reliability, security, DR, and FinOps assessments.
+3. Use the questionnaires and templates to drive diligence work.
+4. Record findings in the scorecards and risk models.
+5. Convert the output into executive summary and remediation roadmap artifacts.
+
 ## Repository Structure
 
 ```text
@@ -56,20 +64,17 @@ docs/               Framework documentation
 assessment-models/  Assessment and risk models
 templates/          Due diligence templates
 scorecards/         Platform maturity scorecards
-diagrams/           Assessment visuals
-reports/            Sample executive report structures
 evidence/           Use-case notes
 references/         Bibliography
-use-cases/          Example assessment scenarios
 ```
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the architecture, reliability, security, DR, and FinOps assessments.
-3. Use the questionnaires and templates to drive diligence work.
-4. Expand scorecards, reports, and remediation roadmaps next.
 
 ## Core Content
 
 - [Technical Due Diligence Matrix](assessment-models/technical-due-diligence-matrix.md)
+- [Framework Overview](docs/framework-overview.md)
+- [Architecture Risk Review](docs/architecture-risk-review.md)
+- [Cloud Maturity Assessment](docs/cloud-maturity-assessment.md)
+- [Reliability Assessment](docs/reliability-assessment.md)
+- [DR Readiness Assessment](docs/dr-readiness-assessment.md)
+- [FinOps Assessment](docs/finops-assessment.md)
+- [Security and Compliance Review](docs/security-compliance-review.md)
