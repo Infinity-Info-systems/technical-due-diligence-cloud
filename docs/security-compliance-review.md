@@ -11,6 +11,8 @@ Assess the security posture and compliance readiness of the platform from a dili
 - logging and monitoring
 - policy alignment
 - exception management
+- audit evidence readiness
+- third-party exposure
 
 ## Questions To Ask
 
@@ -25,3 +27,7 @@ Assess the security posture and compliance readiness of the platform from a dili
 - policy documents
 - audit evidence
 - exception logs
+
+## Use
+
+This review should make it obvious whether the platform has a control environment that can stand up to scrutiny.

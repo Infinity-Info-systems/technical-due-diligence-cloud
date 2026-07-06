@@ -11,6 +11,11 @@ Give reviewers a compact view of the platform health across the major diligence 
 - security
 - DR
 - FinOps
+- operating model
+
+## Use
+
+Use this scorecard when you need a compact summary that can be discussed quickly with both technical and executive stakeholders.
 
 ## Example Scale
 

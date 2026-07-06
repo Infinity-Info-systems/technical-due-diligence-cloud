@@ -11,6 +11,7 @@ Assess whether the platform can recover within agreed business time objectives.
 - backup and restore testing
 - failover readiness
 - evidence retention
+- business continuity alignment
 
 ## Questions To Ask
 
@@ -25,3 +26,7 @@ Assess whether the platform can recover within agreed business time objectives.
 - test results
 - restore evidence
 - failure scenario notes
+
+## Use
+
+If recovery has not been tested recently, treat the readiness level as lower than the written plan suggests.

@@ -43,6 +43,13 @@ Use this matrix to connect architecture, reliability, security, DR, FinOps, and 
 - commitment risk
 - cost transparency
 
+### 6. Operating Model Risk
+
+- ownership clarity
+- review cadence
+- change discipline
+- escalation path
+
 ## Example Matrix
 
 | Area | Risk Level | Finding | Action |
@@ -59,6 +66,7 @@ Use this matrix to connect architecture, reliability, security, DR, FinOps, and 
 - assign each finding an owner and due date
 - summarize the investment impact clearly
 - use the matrix to drive remediation sequencing
+- flag any finding that changes the investment thesis or close plan
 
 ## Related Artifacts
 

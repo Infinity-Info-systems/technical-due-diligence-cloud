@@ -3,6 +3,7 @@
 ## What This Framework Does
 
 This framework gives diligence teams a repeatable way to assess cloud and SaaS platforms before investment, acquisition, restructuring, or modernization.
+It is a decision-support framework, not just an assessment checklist.
 
 ## What It Covers
 
@@ -29,6 +30,8 @@ This framework gives diligence teams a repeatable way to assess cloud and SaaS p
 - critical items are prioritized clearly
 - remediation actions are sequenced
 - leadership can see the investment implications
+- assumptions are explicit
+- weak evidence is called out clearly
 
 ## Outputs
 
@@ -37,3 +40,7 @@ This framework gives diligence teams a repeatable way to assess cloud and SaaS p
 - executive summary
 - remediation roadmap
 - evidence notes
+
+## Practical Use
+
+Use this framework when you need a defensible view of platform health without overcomplicating the review process.

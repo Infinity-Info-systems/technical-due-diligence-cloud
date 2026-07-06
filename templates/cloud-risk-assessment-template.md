@@ -17,3 +17,9 @@ State the platform, the scope, and the overall risk view.
 | Area | Risk | Impact | Recommendation |
 | --- | --- | --- | --- |
 |  |  |  |  |
+
+## Follow-Up
+
+- owner
+- due date
+- evidence required

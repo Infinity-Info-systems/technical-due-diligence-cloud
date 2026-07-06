@@ -11,6 +11,8 @@ Assess how mature the cloud operating model is across governance, platform desig
 - service ownership
 - automation and repeatability
 - control execution
+- operating cadence
+- change discipline
 
 ## Interpretation
 
@@ -25,3 +27,7 @@ Assess how mature the cloud operating model is across governance, platform desig
 - operating reviews
 - exception logs
 - automation inventory
+
+## Use
+
+This assessment helps show whether the cloud platform can support the business at scale without relying on heroics.

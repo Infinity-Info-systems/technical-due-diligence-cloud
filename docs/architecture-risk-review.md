@@ -11,6 +11,8 @@ Review architecture risk to understand whether the platform can scale, change, a
 - scalability limits
 - technical debt
 - integration risk
+- vendor lock-in exposure
+- platform extensibility
 
 ## Questions To Ask
 
@@ -26,3 +28,8 @@ Review architecture risk to understand whether the platform can scale, change, a
 - dependency map
 - technical debt notes
 - change history
+- integration catalog
+
+## Interpretation
+
+Architecture risk should be judged by how much it limits future change, not just by how current the design appears.

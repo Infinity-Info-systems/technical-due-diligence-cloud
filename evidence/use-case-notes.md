@@ -7,6 +7,8 @@
 - cloud transformation assessment
 - remediation planning
 - leadership risk review
+- investment memo support
+- transition planning
 
 ## Output Types
 
@@ -14,3 +16,4 @@
 - risk scorecard
 - roadmap
 - evidence notes
+- diligence matrix

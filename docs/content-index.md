@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for cloud diligence, technical risk review, and remediation planning.
+Use it to move quickly from diligence framing to evidence-backed findings.
 
 ## Entry Points
 
@@ -30,6 +31,14 @@ This index organizes the repo into a front door for cloud diligence, technical r
 - [Executive Summary Template](../templates/executive-summary-template.md)
 - [Remediation Roadmap Template](../templates/remediation-roadmap-template.md)
 
+## Reading Order
+
+1. Framework overview
+2. Technical due diligence matrix
+3. Domain-specific assessments
+4. Scorecards
+5. Templates and remediation plan
+
 ## References
 
 - [Bibliography](../references/bibliography.md)
@@ -38,4 +47,4 @@ This index organizes the repo into a front door for cloud diligence, technical r
 ## Shared Direction
 
 Use the same section structure as the other core repos so diligence content stays consistent and easy to reuse.
-
+Write each page so the decision-maker can find the takeaway first and the evidence second.

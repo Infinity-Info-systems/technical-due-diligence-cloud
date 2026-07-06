@@ -12,9 +12,11 @@ This model focuses on the risks that matter most when evaluating a SaaS platform
 - resilience
 - security
 - data portability
+- vendor dependency
 
 ## How To Use
 
 - identify whether the risk is design, process, or operating-model based
 - assess whether the risk affects adoption or valuation
 - prioritize the highest-exposure items first
+- note whether the issue is remediable before close or only after transition

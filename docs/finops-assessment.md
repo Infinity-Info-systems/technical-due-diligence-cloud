@@ -11,6 +11,8 @@ Assess whether cloud spend is visible, owned, and manageable enough for the targ
 - forecast discipline
 - rightsizing opportunities
 - commitment strategy
+- spend governance
+- savings validation
 
 ## Questions To Ask
 
@@ -25,3 +27,7 @@ Assess whether cloud spend is visible, owned, and manageable enough for the targ
 - allocation rules
 - forecast reviews
 - optimization backlog
+
+## Outcome
+
+This assessment should show whether cloud cost is controlled well enough to support the business model and the target margin profile.

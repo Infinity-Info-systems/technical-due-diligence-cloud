@@ -11,6 +11,11 @@ Summarize cloud maturity in a way that is easy to discuss with investment and le
 - reliability
 - security
 - cost control
+- operating cadence
+
+## Use
+
+This scorecard should show whether the platform is mature enough to support the intended business growth or transition plan.
 
 ## Interpretation
 

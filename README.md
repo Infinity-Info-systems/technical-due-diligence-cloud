@@ -5,6 +5,7 @@
 This repository presents a technical due diligence framework for evaluating cloud-based, SaaS, FinTech, and enterprise technology platforms.
 
 The framework helps assess architecture maturity, scalability, reliability, cloud cost risk, disaster recovery readiness, security posture, governance maturity, and modernization opportunities.
+It is intended to support investment, acquisition, restructuring, and strategic technology decisions.
 
 ## Core Areas
 
@@ -16,6 +17,8 @@ The framework helps assess architecture maturity, scalability, reliability, clou
 - FinOps and cloud cost exposure
 - Architecture governance
 - Modernization risk
+- Operating model maturity
+- Investment decision support
 
 ## Objectives
 
@@ -28,6 +31,16 @@ The framework helps stakeholders:
 - identify modernization gaps
 - support executive decision-making
 - build remediation roadmaps
+- surface material risks early enough to affect the decision
+- create a consistent diligence process across deals or reviews
+
+## Content Model
+
+This repository works best when the pages are used in three layers:
+
+- overview and diligence framing
+- assessment models and scorecards
+- templates and evidence notes
 
 ## Framework Components
 
@@ -56,6 +69,7 @@ The framework helps stakeholders:
 3. Use the questionnaires and templates to drive diligence work.
 4. Record findings in the scorecards and risk models.
 5. Convert the output into executive summary and remediation roadmap artifacts.
+6. Keep the language concise enough for leadership review and detailed enough for technical follow-up.
 
 ## Repository Structure
 
@@ -78,3 +92,14 @@ references/         Bibliography
 - [DR Readiness Assessment](docs/dr-readiness-assessment.md)
 - [FinOps Assessment](docs/finops-assessment.md)
 - [Security and Compliance Review](docs/security-compliance-review.md)
+- [Cloud Diligence Model](assessment-models/cloud-diligence-model.md)
+- [SaaS Platform Risk Model](assessment-models/saas-platform-risk-model.md)
+- [Technical Health Scorecard](assessment-models/technical-health-scorecard.md)
+- [Cloud Maturity Scorecard](scorecards/cloud-maturity-scorecard.md)
+- [Platform Risk Scorecard](scorecards/platform-risk-scorecard.md)
+- [Use-Case Notes](evidence/use-case-notes.md)
+- [Bibliography](references/bibliography.md)
+
+## Decision Outcome
+
+The goal of diligence is not to generate a long report. The goal is to produce a clear view of material risk, investment implication, and the remediation path if the deal or initiative proceeds.

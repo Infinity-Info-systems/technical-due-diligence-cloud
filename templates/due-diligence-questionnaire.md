@@ -13,3 +13,8 @@
 - what risks are known?
 - what remediation work is already planned?
 - what evidence is available?
+- what assumptions drive the current investment view?
+
+## Guidance
+
+Use this questionnaire to keep interviews focused on the facts that affect platform quality and decision confidence.

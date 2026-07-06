@@ -11,6 +11,7 @@ Assess how well the platform is prepared to sustain service availability and rec
 - incident management
 - observability quality
 - response learning loop
+- resilience of critical paths
 
 ## Questions To Ask
 
@@ -25,3 +26,7 @@ Assess how well the platform is prepared to sustain service availability and rec
 - SLO documents
 - monitoring dashboards
 - post-incident actions
+
+## Interpretation
+
+Reliability maturity is strongest when teams can show both steady service performance and a clear process for learning from failures.

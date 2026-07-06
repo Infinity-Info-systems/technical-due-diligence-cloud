@@ -14,3 +14,4 @@ Explain the most important remediation themes.
 
 - separate immediate from longer-term work
 - identify decisions required from leadership
+- sequence work by risk reduction and dependency

@@ -12,6 +12,7 @@ The cloud diligence model groups the major diligence domains into a repeatable a
 - disaster recovery
 - FinOps
 - modernization
+- operating model
 
 ## How To Use
 
@@ -19,3 +20,4 @@ The cloud diligence model groups the major diligence domains into a repeatable a
 - capture evidence for the score
 - note investment implications
 - recommend remediation sequencing
+- keep the scoring consistent across reviews

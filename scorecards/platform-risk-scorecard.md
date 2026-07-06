@@ -11,6 +11,11 @@ Summarize the top platform risks that should shape diligence findings and follow
 - availability risk
 - cost risk
 - modernization risk
+- operating model risk
+
+## Use
+
+Rank the risks by business materiality so the follow-up work reflects real decision pressure, not just technical severity.
 
 ## Use
 
