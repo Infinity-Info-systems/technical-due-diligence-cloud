@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for cloud diligence, technical risk review, and remediation planning.
 Use it to move quickly from diligence framing to evidence-backed findings.
+The order is intentionally arranged so reviewers move from the big picture into the most important risk domains.
 
 ## Entry Points
 
@@ -48,3 +49,4 @@ Use it to move quickly from diligence framing to evidence-backed findings.
 
 Use the same section structure as the other core repos so diligence content stays consistent and easy to reuse.
 Write each page so the decision-maker can find the takeaway first and the evidence second.
+If a page does not change the diligence conclusion, move that detail to evidence notes or an appendix-style artifact.

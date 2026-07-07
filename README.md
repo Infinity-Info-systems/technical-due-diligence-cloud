@@ -6,6 +6,7 @@ This repository presents a technical due diligence framework for evaluating clou
 
 The framework helps assess architecture maturity, scalability, reliability, cloud cost risk, disaster recovery readiness, security posture, governance maturity, and modernization opportunities.
 It is intended to support investment, acquisition, restructuring, and strategic technology decisions.
+The aim is not just to score the platform, but to make the business implication of each technical finding clear.
 
 ## Core Areas
 
@@ -33,6 +34,8 @@ The framework helps stakeholders:
 - build remediation roadmaps
 - surface material risks early enough to affect the decision
 - create a consistent diligence process across deals or reviews
+- make technical findings easier to compare across targets
+- turn platform risk into a remediation and investment view
 
 ## Content Model
 
@@ -70,6 +73,7 @@ This repository works best when the pages are used in three layers:
 4. Record findings in the scorecards and risk models.
 5. Convert the output into executive summary and remediation roadmap artifacts.
 6. Keep the language concise enough for leadership review and detailed enough for technical follow-up.
+7. Separate material risk from minor defects so the decision path stays focused.
 
 ## Repository Structure
 
@@ -103,3 +107,13 @@ references/         Bibliography
 ## Decision Outcome
 
 The goal of diligence is not to generate a long report. The goal is to produce a clear view of material risk, investment implication, and the remediation path if the deal or initiative proceeds.
+If a finding does not change the decision, the scope, or the remediation path, it should not dominate the final report.
+
+## Executive Takeaway
+
+Use this repo when leaders need a defensible technical view before moving forward.
+It helps answer:
+
+- What is the material risk?
+- How does it affect investment or execution?
+- What remediation is needed if we proceed?
