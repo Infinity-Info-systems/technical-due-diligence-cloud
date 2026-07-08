@@ -1,6 +1,7 @@
 # Technical Due Diligence Matrix
 
 This matrix helps teams assess cloud, SaaS, and platform risk in a structured diligence review.
+It is the central table for summarizing material findings and their business implications.
 
 ## Purpose
 
@@ -60,6 +61,18 @@ Use this matrix to connect architecture, reliability, security, DR, FinOps, and 
 | DR | Medium | Recovery testing inconsistent | Execute test plan |
 | FinOps | Medium | Tagging gaps reduce visibility | Fix allocation model |
 
+## Figure
+
+```mermaid
+flowchart LR
+  A[Architecture] --> B[Reliability]
+  B --> C[Security]
+  C --> D[DR]
+  D --> E[FinOps]
+  E --> F[Operating Model]
+  F --> G[Investment Decision]
+```
+
 ## Recommended Actions
 
 - separate critical findings from nice-to-have improvements
@@ -67,6 +80,14 @@ Use this matrix to connect architecture, reliability, security, DR, FinOps, and 
 - summarize the investment impact clearly
 - use the matrix to drive remediation sequencing
 - flag any finding that changes the investment thesis or close plan
+
+## Use
+
+Use this page as the first place to summarize risk across domains before writing the executive report.
+
+## Outcome
+
+A strong diligence matrix makes it easier to separate major deal issues from background technical noise.
 
 ## Related Artifacts
 

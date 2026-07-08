@@ -5,6 +5,7 @@
 This framework gives diligence teams a repeatable way to assess cloud and SaaS platforms before investment, acquisition, restructuring, or modernization.
 It is a decision-support framework, not just an assessment checklist.
 It helps teams explain what the findings mean for the deal, the program, or the operating model.
+The framework is meant to make technical findings easier to compare across targets and easier to translate into action.
 
 ## What It Covers
 
@@ -54,3 +55,12 @@ The framework helps teams compare targets more consistently and turn technical f
 ## Practical Use
 
 Use this framework when you need a defensible view of platform health without overcomplicating the review process.
+
+## How To Read It
+
+Start with the framework overview, then move into the domain assessments and scorecards.
+That sequence keeps the review focused on material issues first and supporting detail second.
+
+## Result
+
+The framework helps teams compare targets more consistently and turn technical findings into a clear action path.

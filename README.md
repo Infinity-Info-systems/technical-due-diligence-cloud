@@ -7,6 +7,7 @@ This repository presents a technical due diligence framework for evaluating clou
 The framework helps assess architecture maturity, scalability, reliability, cloud cost risk, disaster recovery readiness, security posture, governance maturity, and modernization opportunities.
 It is intended to support investment, acquisition, restructuring, and strategic technology decisions.
 The aim is not just to score the platform, but to make the business implication of each technical finding clear.
+The repository should also be easy to reference from the parent MCGR page so the diligence library is visible as part of the larger ecosystem.
 
 ## Core Areas
 
@@ -36,6 +37,13 @@ The framework helps stakeholders:
 - create a consistent diligence process across deals or reviews
 - make technical findings easier to compare across targets
 - turn platform risk into a remediation and investment view
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [Cloud Governance Assessment Toolkit](../cloud-governance-assessment-toolkit/README.md)
+- [Enterprise Architecture Blueprints](../enterprise-architecture-blueprints/README.md)
 
 ## Content Model
 
@@ -117,3 +125,13 @@ It helps answer:
 - What is the material risk?
 - How does it affect investment or execution?
 - What remediation is needed if we proceed?
+
+## Quick View
+
+| Diligence Area | What It Answers | Typical Output |
+| --- | --- | --- |
+| Architecture | Can the platform scale and change? | Architecture risk summary |
+| Reliability | Can the service stay available? | Reliability scorecard |
+| Security | Is the posture acceptable? | Security review findings |
+| DR | Can the platform recover? | Recovery readiness view |
+| FinOps | Is spend under control? | Cost risk summary |
