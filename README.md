@@ -112,6 +112,11 @@ references/         Bibliography
 - [Use-Case Notes](evidence/use-case-notes.md)
 - [Bibliography](references/bibliography.md)
 
+## Code Direction
+
+This repo now includes a typed diligence registry in `src/` so findings, layers, and remediation logic can be reused in tooling or future app pages.
+The code layer mirrors the scope, evidence, assessment, and decision flow described in the framework pages.
+
 ## Decision Outcome
 
 The goal of diligence is not to generate a long report. The goal is to produce a clear view of material risk, investment implication, and the remediation path if the deal or initiative proceeds.
