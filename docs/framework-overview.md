@@ -7,6 +7,13 @@ It is a decision-support framework, not just an assessment checklist.
 It helps teams explain what the findings mean for the deal, the program, or the operating model.
 The framework is meant to make technical findings easier to compare across targets and easier to translate into action.
 
+## Diligence Flow
+
+```mermaid
+flowchart LR
+    A["Scope"] --> B["Evidence"] --> C["Assessment"] --> D["Material Findings"] --> E["Decision Impact"] --> F["Remediation Path"]
+```
+
 ## What It Covers
 
 - architecture
@@ -52,9 +59,23 @@ The framework helps teams compare targets more consistently and turn technical f
 - remediation roadmap
 - evidence notes
 
+## Diligence Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Scope | What is being reviewed? | Due diligence questionnaire |
+| Evidence | What supports the claim? | Evidence notes |
+| Assessment | What is the current state? | Domain assessment |
+| Decision | What matters to the deal? | Executive summary |
+| Remediation | What happens next? | Remediation roadmap |
+
 ## Practical Use
 
 Use this framework when you need a defensible view of platform health without overcomplicating the review process.
+
+## Decision Rule
+
+If a finding does not affect the investment view, operating risk, or remediation path, it should be treated as supporting detail rather than a core diligence issue.
 
 ## How To Read It
 

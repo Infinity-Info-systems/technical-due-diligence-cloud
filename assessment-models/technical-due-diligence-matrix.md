@@ -7,6 +7,17 @@ It is the central table for summarizing material findings and their business imp
 
 Use this matrix to connect architecture, reliability, security, DR, FinOps, and modernization risk into one diligence output.
 
+## Summary Table
+
+| Review Area | Typical Question | Common Output |
+| --- | --- | --- |
+| Architecture | Can the platform scale and change? | Architecture risk summary |
+| Reliability | Can services stay available? | Reliability scorecard |
+| Security | Is the posture acceptable? | Security review finding |
+| DR | Can the platform recover? | Recovery readiness view |
+| FinOps | Is spend under control? | Cost risk summary |
+| Operating Model | Can the team run it well? | Ownership and cadence note |
+
 ## Review Areas
 
 ### 1. Architecture Risk
@@ -80,6 +91,10 @@ flowchart LR
 - summarize the investment impact clearly
 - use the matrix to drive remediation sequencing
 - flag any finding that changes the investment thesis or close plan
+
+## Triage Rule
+
+Any finding that would change the decision to proceed, the valuation view, or the remediation plan should be escalated in the executive summary.
 
 ## Use
 
